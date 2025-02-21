@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "BitDevs Oslo Socratic Seminar #1"
+title: "Socratic Seminar #1"
 meetup: https://www.meetup.com/bitcoin-developers-oslo/events/299290841
 ---
 
