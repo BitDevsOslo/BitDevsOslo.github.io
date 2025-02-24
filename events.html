@@ -15,6 +15,16 @@ title: Meetings
         </div>
       {% endif %}
     {% endfor %}
+    <h2 class="Home-posts-title">OsloPlebs Bitcoin Meetup</h2>
+    {% for post in site.posts %}
+      {% if post.type == "osloplebs" %}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      {% endif %}
+    {% endfor %}
     
   </div>
 

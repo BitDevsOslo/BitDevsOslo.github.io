@@ -1,7 +1,8 @@
-title: 'BitDevs Oslo'
-tagline: 'BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.'
+title: 'Bitcoin Oslo'
+tagline: 'Bitcoin Oslo is a community for both technical and non-technical discussions about Bitcoin, welcoming everyone interested in learning about and discussing Bitcoin and related protocols.'
 
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/bitcoin-developers-oslo', external: true}
+  - {name: 'BitDevs', url: 'https://www.meetup.com/bitcoin-developers-oslo', external: true}
+  - {name: 'OsloPlebs', url: 'https://www.meetup.com/osloplebs-bitcoin-meetup', external: true}

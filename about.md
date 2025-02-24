@@ -29,3 +29,7 @@ Please contact the organizers if you'd like to present at a future Socratic
 event or have a recommended topic for discussion: bitdevsnyc at gmail. There
 are different requirements for presentations depending on the nature of the
 project.
+
+### OsloPlebs Bitcoin Meetup
+
+TODO
